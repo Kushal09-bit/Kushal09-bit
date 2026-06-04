@@ -53,8 +53,8 @@ I build AI systems that are not just accurate — but **secure and privacy-aware
 
 ## 📫 Connect with me
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat&logo=linkedin)](https://linkedin.com/in/your-linkedin-here)
-[![Email](https://img.shields.io/badge/Email-Reach%20Out-red?style=flat&logo=gmail)](mailto:your-email-here)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/kushal-yadav-63ab89374/)
+[![Email](https://img.shields.io/badge/Email-Reach%20Out-red?style=flat&logo=gmail)](https://mail.google.com/mail/u/0/?tab=rm&ogbl#inbox)
 
 ---
 
