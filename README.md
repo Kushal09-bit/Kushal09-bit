@@ -22,7 +22,7 @@
 - 🏢 GenAI Engineer Intern at **NeuLeap.ai** (Jul–Nov 2026) - agentic RAG, NL-to-SQL, LangSmith eval frameworks for AI-generated clinical documents
 - 🔐 Research background in **federated learning & privacy-preserving AI** - 5 papers presented at IEEE conferences
 - 🎓 B.Tech CSE (AI), Amrita Vishwa Vidyapeetham, Bengaluru (2026) · Minor in CSE & Emerging Technologies, IIT Mandi
-- 📍 India · open to Bengaluru, Hyderabad, Pune, Chennai or remote
+- 📍 India · open to Bengaluru, Hyderabad,or remote
 
 ---
 
